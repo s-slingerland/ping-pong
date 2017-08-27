@@ -11,21 +11,25 @@ _This website allows a user to enter a number in a form. After clicking the butt
 #### _This website will count up to the selected number_
 
 _example input: 2_
+
 _example output: 1, 2_
 
 #### _It will replace numbers divisible by 3 with "ping"_
 
 _example input: 3_
+
 _example output: 1, 2, ping_
 
 #### _It will replace numbers divisible by 5 with "pong"_
 
 _example input: 5_
+
 _example output: 1, 2, ping, 4, pong_
 
 #### _It will replace numbers divisible by 15 with "pingpong"_
 
 _example input: 15_
+
 _example output: 1, 2, ping, 4, pong, ping, 7, 8, ping, pong, 11, ping, 13, 14, pingpong_
 
 
